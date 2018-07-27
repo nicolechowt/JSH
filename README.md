@@ -30,13 +30,13 @@
 5. Related to the note above, the circle should darken or change color when the corresponding image is selected/displayed.
 
 ## Technology/Tools
-Sublime
-React
-react-router-dom
-react-bootstrap
-Webpack
-Webfontloader
-MaterialUI
+1. Sublime
+2. React
+3. react-router-dom
+4. react-bootstrap
+5. Webpack
+6. Webfontloader
+7. MaterialUI
 
 ### To run on local machine
 ```
