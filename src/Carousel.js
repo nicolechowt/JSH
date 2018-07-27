@@ -59,7 +59,7 @@ class Carousel extends Component {
 				</div>
 				
 				<div className="overlay">
-					<p>{content}</p>
+					<p id="overlay-content">{content}</p>
 				</div>
 
 
